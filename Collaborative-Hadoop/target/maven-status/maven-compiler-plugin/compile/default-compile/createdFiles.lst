@@ -1,0 +1,7 @@
+com\cohap\collaborative\hadoop\config\SpringWebAppInitializer.class
+com\cohap\collaborative\hadoop\config\WebMvcConfig.class
+com\cohap\collaborative\hadoop\ssh\Commands.class
+com\cohap\collaborative\hadoop\ssh\SSH.class
+com\cohap\collaborative\hadoop\controller\FileUploadController.class
+com\cohap\collaborative\hadoop\form\UploadForm.class
+com\cohap\collaborative\hadoop\config\ApplicationContextConfig.class
